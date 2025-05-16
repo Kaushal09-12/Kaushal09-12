@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Kaushal!
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building things that solve real-world problems. Here's a little more about me:
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building thi
 
 ## 🚀 About Me
 
-- 🎓 I'm currently [your role, e.g., "a final year Computer Science student"]
+- 🎓 I'm currently [your role, e.g., "a final year Electronics and Telecommunication student"]
 - 🌱 I'm learning **[technologies you're learning]**
 - 💬 Ask me about **[your areas of expertise]**
 - 💡 I love exploring **new technologies** and applying them in my projects
